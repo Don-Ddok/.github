@@ -2,7 +2,7 @@
 
 # 돈독 · Don-Ddok
 
-**수출 경기 충격은 법인 여신에 전이되는가**
+**수출 경기 충격은 법인의 은행 거래에 어떻게 나타나는가**
 
 iM DiGital Banker Academy 9기 · 통계 프로젝트
 
@@ -92,6 +92,12 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 </table>
 
 </div>
+
+## 저장소
+
+| 저장소 | 내용 |
+|---|---|
+| [Don-Ddok_Docs](https://github.com/Don-Ddok/Don-Ddok_Docs) | 회의록·일지 등 팀 문서 |
 
 ## 진행 상황
 
