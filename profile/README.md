@@ -4,6 +4,8 @@
 
 **수출 경기 충격은 법인 여신에 전이되는가**
 
+iM DiGital Banker Academy 9기 · 통계 프로젝트
+
 지방은행 데이터로 "지역 수출이 나빠지면 기업의 은행 거래가 어떻게 달라지는가"를 통계로 확인합니다.
 
 <br>
@@ -14,7 +16,7 @@
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ![기간](https://img.shields.io/badge/기간-2026.09.21~10.07-555555?style=flat-square)
-![소속](https://img.shields.io/badge/iM%20DiGital%20Banker%20Academy-7기-00A0B0?style=flat-square)
+![소속](https://img.shields.io/badge/iM%20DiGital%20Banker%20Academy-9기-00A0B0?style=flat-square)
 
 </div>
 
