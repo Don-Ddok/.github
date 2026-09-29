@@ -71,7 +71,7 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 | 구분 | 내용 |
 |---|---|
 | 내부 자료 | iM뱅크 제공 교육용 법인 익명데이터 — 저장소에 공개하지 않습니다 |
-| 외부 자료 | 대구·경북 월별 수출입(관세청 통계, 한국무역협회 K-stat) · KOSIS 업종별 광공업생산지수 · 한국은행 ECOS 원/달러 환율 · 대구·경북 기업경기실사지수(BSI) |
+| 외부 자료 | 대구·경북 월별 수출입(관세청 통계, 한국무역협회 K-stat) · KOSIS 업종별 광공업생산지수 · 한국은행 ECOS 원/달러 환율·기준금리 · 월별 영업일수(공휴일 반영) · 대구·경북 기업경기실사지수(BSI) |
 
 ## 팀
 
@@ -103,8 +103,9 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 
 | 저장소 | 내용 |
 |---|---|
-| [Don-Ddok_Docs](https://github.com/Don-Ddok/Don-Ddok_Docs) | 일일 진행 일지 등 팀 문서 |
-| [Don-Ddok_Data](https://github.com/Don-Ddok/Don-Ddok_Data) | 전처리·분석 코드와 공개 외부 데이터 (은행 원본 데이터 제외) |
+| [Don-Ddok_Docs](https://github.com/Don-Ddok/Don-Ddok_Docs) | 기획서, 일일 진행 일지, 역할 분담, 결과 보고서 중간본, 파트별 분석 결과와 그림 |
+| [Don-Ddok_Data](https://github.com/Don-Ddok/Don-Ddok_Data) | 전처리·분석 코드, 집계 결과표, 원자료와 대조한 공개 외부 데이터 (은행 원본 데이터 제외) |
+| [Don-Ddok_Dashboard](https://github.com/Don-Ddok/Don-Ddok_Dashboard) | 법인 고객 마케팅 월보 프로토타입 — [donddok.vercel.app](https://donddok.vercel.app) |
 
 ## 진행 상황
 
@@ -112,10 +113,19 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 |---|---|
 | 주제 확정·기획 | 완료 |
 | 분석용 데이터 구축·검증 | 완료 |
-| 파트별 분석(수신 채널, 여신·업종, 외부 데이터) | 진행 중 — 강건성 점검 단계 |
+| 파트별 분석(수신 채널, 여신·업종, 외부 데이터) | 강건성 점검까지 진행, 결과 보고서 중간본 공유(9/28) |
+| 실무 활용 화면(법인 고객 마케팅 월보) | 공개 — 이번 달 추천, 팀 인사이트, 여신 분석, 용어 사전 |
 | 결과 보고서·발표 | 10월 6일 제출 예정 |
 
-분석 결과는 검증이 끝나는 대로 이 조직의 저장소에 공개합니다.
+## 먼저 볼 곳
+
+| 보고 싶은 것 | 위치 |
+|---|---|
+| 결과를 화면으로 | [donddok.vercel.app](https://donddok.vercel.app) — 수출 둔화 단계별로 먼저 제안할 고객과 상품, 그 근거와 한계 |
+| 여신·업종 분석 한눈에 | [파트 3 그림 모음](https://github.com/Don-Ddok/Don-Ddok_Docs/blob/main/분석결과/파트3_여신업종분석/그림/README.md) — 분석마다 방법·결과·문제점을 한 장씩 |
+| 팀 결과 보고서 | [중간본(9/28)](https://github.com/Don-Ddok/Don-Ddok_Docs/tree/main/결과보고서) |
+
+화면과 문서의 숫자는 모두 집계 결과입니다. 약하거나 기각된 결과도 그대로 적었습니다.
 
 ---
 
