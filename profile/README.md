@@ -103,7 +103,7 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 
 | 저장소 | 내용 |
 |---|---|
-| [Don-Ddok_Docs](https://github.com/Don-Ddok/Don-Ddok_Docs) | 기획서, 일일 진행 일지, 역할 분담, 결과 보고서 중간본, 파트별 분석 결과와 그림 |
+| [Don-Ddok_Docs](https://github.com/Don-Ddok/Don-Ddok_Docs) | 기획서, 일일 진행 일지, 역할 분담, 데이터 명세서, 최종 결과 보고서와 발표자료, 파트별 분석 결과와 그림 |
 | [Don-Ddok_Data](https://github.com/Don-Ddok/Don-Ddok_Data) | 전처리·분석 코드, 집계 결과표, 원자료와 대조한 공개 외부 데이터 (은행 원본 데이터 제외) |
 | [Don-Ddok_Dashboard](https://github.com/Don-Ddok/Don-Ddok_Dashboard) | 법인 고객 마케팅 월보 프로토타입 — [donddok.vercel.app](https://donddok.vercel.app) |
 
@@ -113,9 +113,9 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 |---|---|
 | 주제 확정·기획 | 완료 |
 | 분석용 데이터 구축·검증 | 완료 |
-| 파트별 분석(수신 채널, 여신·업종, 외부 데이터) | 강건성 점검까지 진행, 결과 보고서 중간본 공유(9/28) |
+| 파트별 분석(요구불·매칭 모델, 수신 채널, 여신·업종) | 완료 — 공통 사양으로 네 계정 재추정, 강건성·사전추세 점검까지 |
 | 실무 활용 화면(법인 고객 마케팅 월보) | 공개 — 이번 달 추천, 팀 인사이트, 여신 분석, 용어 사전 |
-| 결과 보고서·발표 | 10월 6일 제출 예정 |
+| 결과 보고서·발표 | 완료 — 최종 보고서와 발표자료 제출(10/6) |
 
 ## 먼저 볼 곳
 
@@ -123,7 +123,9 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 |---|---|
 | 결과를 화면으로 | [donddok.vercel.app](https://donddok.vercel.app) — 수출 둔화 단계별로 먼저 제안할 고객과 상품, 그 근거와 한계 |
 | 여신·업종 분석 한눈에 | [파트 3 그림 모음](https://github.com/Don-Ddok/Don-Ddok_Docs/blob/main/분석결과/파트3_여신업종분석/그림/README.md) — 분석마다 방법·결과·문제점을 한 장씩 |
-| 팀 결과 보고서 | [중간본(9/28)](https://github.com/Don-Ddok/Don-Ddok_Docs/tree/main/결과보고서) |
+| 계정별 반응을 같은 잣대로 | [파트 1 요구불·매칭 모델](https://github.com/Don-Ddok/Don-Ddok_Docs/tree/main/분석결과/파트1_요구불매칭분석) — 네 계정 공통 사양 재추정과 상품 매칭 모델 |
+| 팀 결과 보고서 | [최종본(10/6)](https://github.com/Don-Ddok/Don-Ddok_Docs/tree/main/결과보고서) |
+| 발표자료 | [최종 발표자료(10/6, 20쪽)](https://github.com/Don-Ddok/Don-Ddok_Docs/blob/main/발표자료/돈독_최종_발표자료_20261006.pdf) |
 
 화면과 문서의 숫자는 모두 집계 결과입니다. 약하거나 기각된 결과도 그대로 적었습니다.
 
