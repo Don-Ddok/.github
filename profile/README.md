@@ -80,19 +80,19 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 <table>
 <tr>
 <td align="center" width="140">
-<a href="https://github.com/dahye292"><img src="https://github.com/dahye292.png?size=120" width="90" style="border-radius:50%"><br><b>dahye292</b></a><br>팀장
+<a href="https://github.com/dahye292"><img src="https://github.com/dahye292.png?size=120" width="90" style="border-radius:50%"><br><b>dahye292</b></a><br>신다혜 · 팀장
 </td>
 <td align="center" width="140">
-<a href="https://github.com/wjsdbghks2-eng"><img src="https://github.com/wjsdbghks2-eng.png?size=120" width="90" style="border-radius:50%"><br><b>wjsdbghks2-eng</b></a><br>팀원
+<a href="https://github.com/wjsdbghks2-eng"><img src="https://github.com/wjsdbghks2-eng.png?size=120" width="90" style="border-radius:50%"><br><b>wjsdbghks2-eng</b></a><br>전유환 · 팀원
 </td>
 <td align="center" width="140">
-<a href="https://github.com/Moomooti"><img src="https://github.com/Moomooti.png?size=120" width="90" style="border-radius:50%"><br><b>Moomooti</b></a><br>팀원
+<a href="https://github.com/Moomooti"><img src="https://github.com/Moomooti.png?size=120" width="90" style="border-radius:50%"><br><b>Moomooti</b></a><br>허민영 · 팀원
 </td>
 <td align="center" width="140">
-<a href="https://github.com/JANGJAEYEOL"><img src="https://github.com/JANGJAEYEOL.png?size=120" width="90" style="border-radius:50%"><br><b>JANGJAEYEOL</b></a><br>팀원
+<a href="https://github.com/JANGJAEYEOL"><img src="https://github.com/JANGJAEYEOL.png?size=120" width="90" style="border-radius:50%"><br><b>JANGJAEYEOL</b></a><br>장재열 · 팀원
 </td>
 <td align="center" width="140">
-<a href="https://github.com/FAITRUEE"><img src="https://github.com/FAITRUEE.png?size=120" width="90" style="border-radius:50%"><br><b>FAITRUEE</b></a><br>팀원
+<a href="https://github.com/FAITRUEE"><img src="https://github.com/FAITRUEE.png?size=120" width="90" style="border-radius:50%"><br><b>FAITRUEE</b></a><br>이성진 · 팀원
 </td>
 </tr>
 </table>
@@ -125,7 +125,7 @@ iM DiGital Banker Academy 9기 · 통계 프로젝트
 | 여신·업종 분석 한눈에 | [파트 3 그림 모음](https://github.com/Don-Ddok/Don-Ddok_Docs/blob/main/분석결과/파트3_여신업종분석/그림/README.md) — 분석마다 방법·결과·문제점을 한 장씩 |
 | 계정별 반응을 같은 잣대로 | [파트 1 요구불·매칭 모델](https://github.com/Don-Ddok/Don-Ddok_Docs/tree/main/분석결과/파트1_요구불매칭분석) — 네 계정 공통 사양 재추정과 상품 매칭 모델 |
 | 팀 결과 보고서 | [최종본(10/6)](https://github.com/Don-Ddok/Don-Ddok_Docs/tree/main/결과보고서) |
-| 발표자료 | [최종 발표자료(10/6, 20쪽)](https://github.com/Don-Ddok/Don-Ddok_Docs/blob/main/발표자료/돈독_최종_발표자료_20261006.pdf) |
+| 발표자료 | [최종 발표자료(10/6, 33쪽)](https://github.com/Don-Ddok/Don-Ddok_Docs/blob/main/발표자료/돈독_최종_발표자료_20261006.pdf) |
 
 화면과 문서의 숫자는 모두 집계 결과입니다. 약하거나 기각된 결과도 그대로 적었습니다.
 
